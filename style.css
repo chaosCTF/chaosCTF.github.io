@@ -24,6 +24,9 @@
 			vertical-align:center;
 			color:#FFF8EF;
 		}
+		li {
+    display: inline;
+}
 		#time{
 			font-size:18px;
 			font-weight:300;

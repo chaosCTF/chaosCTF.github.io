@@ -12,6 +12,12 @@
 			left:0px;
 			right:0px;
 		}
+		#title{
+			font-size:10em;
+			font-weight:300;
+			text-align:center;
+			vertical-align:center;
+		}
 		#background{
 			width: 100%;
 			height: auto

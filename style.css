@@ -1,4 +1,8 @@
 
+		body{
+			font-family: 'Roboto Slab', serif;
+			/*background-color:#402E2A;*/
+		}
 		#quickref{
 			text-align:center;
 			z-index:1000;
@@ -53,10 +57,11 @@
 			font-size:25px;
 		}
 		#time{
-			font-size:18px;
+			font-size:1em;
 			font-weight:300;
 			text-align:center;
 			color:#d8d8d8;
+			font-family: 'Roboto', sans-serif;
 		}	
 		#background{
 			width: 100%;
@@ -100,10 +105,6 @@
 		a{
 			color:#d8d8d8;
 			text-decoration:none;
-		}
-		body{
-			font-family: 'Roboto Slab', serif;
-			/*background-color:#402E2A;*/
 		}
 		#aboutus,#info{
 			position:absolute;

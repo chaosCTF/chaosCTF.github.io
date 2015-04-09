@@ -96,30 +96,9 @@
 			top: 10px;
 			text-align:right;
 		}
-		#flower{
-			font-family: 'Roboto Slab', serif;
-			text-decoration:none;
-			color:white;
-		}
 		a{
 			color:#d8d8d8;
 			text-decoration:none;
-		}
-		.lists{
-			width:15%;
-			float:left;
-			position:relative;
-			display: block;
-			background-color:#d8d8d8;
-			text-decoration: none;
-		}
-		.gallery{
-			height:400px;
-			width:auto;
-			top:20px;
-			position:relative;
-			display:block;
-			padding:2%;
 		}
 		body{
 			font-family: 'Roboto Slab', serif;
@@ -130,7 +109,7 @@
 			list-style-type: none;
 			text-decoration: none;
 		}
-		#info{
+		#aboutus,#info{
 			position:absolute;
 			background-color:#d8d8d8;
 			width:100%;
@@ -141,6 +120,9 @@
 			right:0px;
 			font-size:15px;
 			font-color:#402E2A;
+		}
+		#info{
+			height:100%;
 		}
 		#infowords{
 			margin-right:30px;
@@ -148,28 +130,13 @@
 			margin-top:30px;
 			margin-bottom:30px;
 		}
-		
 		h2 {
 			margin-left: 30px;
 		}
-		
 		p {
 			margin-left: 40px;
 		}
-		
 		h1 {
 			margin-left: 20px;
 		}
 		
-		#aboutus{
-			position:absolute;
-			background-color:#d8d8d8;
-			width:100%;
-			height:125%;
-			top:45%;
-			bottom:0;
-			left:0px;
-			right:0px;
-			font-size:15px;
-			font-color:#402E2A;
-		}

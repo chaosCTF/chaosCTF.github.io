@@ -6,10 +6,12 @@
 			height:8%;
 			background-color:none;
 			color:#d8d8d8;
-			position:absolute;
+			position:fixed;
 			top:20px;
 			left:10%;
 			right:0%;
+			margin-left: auto;
+    margin-right: auto;
 		}
 		.button:hover{
 			background-color:#4F3C39;

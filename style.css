@@ -24,7 +24,7 @@
 			font-weight:300;
 			text-align:center;
 			color:#FFF8EF;
-		}
+		}	
 		#background{
 			width: 100%;
 			height: auto
@@ -120,4 +120,12 @@
 			right:0px;
 			font-size:15px;
 			font-color:#402E2A;
+		}
+		
+		h2 {
+			margin-left: 10%;
+		}
+		
+		p {
+			margin-left: 15%;
 		}

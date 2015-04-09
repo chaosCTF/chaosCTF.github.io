@@ -20,6 +20,7 @@
 			position:fixed;
 			top: 0px;
 			left:0px;
+			opacity:0.2px;
 		}
 		#logo{
 			width: 15%;
@@ -86,5 +87,5 @@
 			top: 40%;
 		}
 		body{
-			background-color:#5c5549;
+			background-color:black;
 		}

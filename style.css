@@ -4,11 +4,11 @@
 			text-align:center;
 			z-index:99;
 			width:60%;
-			height:50%;
+			height:10%;
 			background-color:none;
-			color:grey;
+			color:#FFF3E5;
 			position:absolute;
-			top:14%;
+			top:20px;
 			left:20%;
 			right:20%;
 		}

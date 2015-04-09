@@ -13,7 +13,9 @@
 		}
 		.button:hover{
 			background-color:#4F3C39;
-			display:inline;
+		}
+		.button{
+			padding:5px;
 		}
 		#title{
 			font-size:10em;
@@ -22,10 +24,18 @@
 			vertical-align:center;
 			color:#FFF8EF;
 		}
-		li {
-		    display: inline-block;
-		    float:left;
+		ul {
+		    list-style-type: none;
+		    margin: 0;
+		    padding: 0;
+		    overflow: hidden;
 		}
+		li {
+		    float: left;
+		    display:inline;
+		}
+
+
 		#time{
 			font-size:18px;
 			font-weight:300;

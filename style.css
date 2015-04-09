@@ -3,14 +3,14 @@
 			display:none;
 			text-align:center;
 			z-index:99;
-			width:80%;
+			width:60%;
 			height:50%;
 			background-color:white;
 			color:grey;
 			position:absolute;
 			top:14%;
-			left:10%;
-			right:10%;
+			left:20%;
+			right:20%;
 		}
 		#title{
 			font-size:10em;
@@ -97,7 +97,7 @@
 		}
 		body{
 			font-family: 'Roboto Slab', serif;
-			background-color:black;
+			background-color:#402E2A;
 		}
 		
 		ul{

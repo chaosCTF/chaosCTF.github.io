@@ -112,11 +112,12 @@
 		}
 		#info{
 			position:absolute;
-			height:30%;
+			height:40%;
 			background-color:white;
 			width:100%;
-			top:70%;
+			top:60%;
 			left:0px;
 			right:0px;
 			font-size:15px;
+			font-color:#402E2A;
 		}

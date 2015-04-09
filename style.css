@@ -15,6 +15,7 @@
 		.button:hover{
 			background-color:#4F3C39;
 			width:60px;
+			display:inline;
 		}
 		#title{
 			font-size:10em;

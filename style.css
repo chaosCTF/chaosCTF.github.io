@@ -19,6 +19,12 @@
 			vertical-align:center;
 			color:white;
 		}
+		#time{
+			font-size:18px;
+			font-weight:300;
+			text-align:center;
+			color:white;
+		}
 		#background{
 			width: 100%;
 			height: auto

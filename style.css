@@ -16,6 +16,7 @@
 		}
 		.button{
 			padding:5px;
+			display:block;
 		}
 		#title{
 			font-size:10em;

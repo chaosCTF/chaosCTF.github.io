@@ -43,8 +43,11 @@
 		    display:inline;
 		    float:right;
 		}
-
-
+		#minilogo{
+			display:inline;
+			float:left;
+			font-size:25px;
+		}
 		#time{
 			font-size:18px;
 			font-weight:300;

@@ -12,6 +12,19 @@
 			left:20%;
 			right:20%;
 		}
+		#thingy{
+			display:block;
+			text-align:center;
+			z-index:1000;
+			width:60%;
+			height:10%;
+			background-color:white;
+			opacity:0.2;
+			position:absolute;
+			top:20px;
+			left:20%;
+			right:20%;
+		}
 		#title{
 			font-size:10em;
 			font-weight:300;

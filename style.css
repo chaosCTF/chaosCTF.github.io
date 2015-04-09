@@ -67,6 +67,7 @@
 			position:relative;
 			display: block;
 			background-color:white;
+			text-decoration: none;
 		}
 		.gallery{
 			height:400px;

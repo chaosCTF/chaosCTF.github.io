@@ -41,6 +41,7 @@
 		    margin: 0;
 		    padding: 0;
 		    overflow: hidden;
+		    text-decoration:none;
 		}
 		li {
 		    display:inline;
@@ -103,11 +104,6 @@
 		body{
 			font-family: 'Roboto Slab', serif;
 			/*background-color:#402E2A;*/
-		}
-		
-		ul{
-			list-style-type: none;
-			text-decoration: none;
 		}
 		#aboutus,#info{
 			position:absolute;

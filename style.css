@@ -17,7 +17,9 @@
 		.button{
 			padding:5px;
 			display:block;
+			width:70px;
 		}
+
 		#title{
 			font-size:10em;
 			font-weight:300;

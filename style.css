@@ -23,7 +23,7 @@
 			color:#FFF8EF;
 		}
 		li {
-		    display: inline;
+		    display: inline-block;
 		    float:left;
 		}
 		#time{

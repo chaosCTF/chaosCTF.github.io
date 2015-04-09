@@ -99,3 +99,8 @@
 			font-family: 'Roboto Slab', serif;
 			background-color:black;
 		}
+		
+		ul{
+			list-style-type: none
+			text-decoration: none;
+		}

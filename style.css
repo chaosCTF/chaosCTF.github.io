@@ -133,3 +133,15 @@
 		h1 {
 			margin-left: 20px;
 		}
+		
+		#aboutus{
+			position:absolute;
+			height:100%;
+			background-color:#FFF8EF;
+			width:100%;
+			top:45%;
+			left:0px;
+			right:0px;
+			font-size:15px;
+			font-color:#402E2A;
+		}

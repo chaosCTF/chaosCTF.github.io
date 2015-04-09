@@ -2,7 +2,7 @@
 		#quickref{
 			display:none;
 			text-align:center;
-			z-index:99;
+			z-index:1000;
 			width:60%;
 			height:10%;
 			background-color:none;

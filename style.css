@@ -110,3 +110,13 @@
 			list-style-type: none;
 			text-decoration: none;
 		}
+		#info{
+			position:absolute;
+			height:30%;
+			background-color:white;
+			width:100%;
+			top:70%;
+			left:0px;
+			right:0px;
+			font-size:15px;
+		}
